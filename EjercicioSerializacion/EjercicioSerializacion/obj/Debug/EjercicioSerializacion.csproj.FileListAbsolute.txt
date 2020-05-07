@@ -1,0 +1,6 @@
+/Users/rodrigoguzman/Projects/EjercicioSerializacion/EjercicioSerializacion/bin/Debug/EjercicioSerializacion.exe
+/Users/rodrigoguzman/Projects/EjercicioSerializacion/EjercicioSerializacion/bin/Debug/EjercicioSerializacion.pdb
+/Users/rodrigoguzman/Projects/EjercicioSerializacion/EjercicioSerializacion/obj/Debug/EjercicioSerializacion.csprojAssemblyReference.cache
+/Users/rodrigoguzman/Projects/EjercicioSerializacion/EjercicioSerializacion/obj/Debug/EjercicioSerializacion.csproj.CoreCompileInputs.cache
+/Users/rodrigoguzman/Projects/EjercicioSerializacion/EjercicioSerializacion/obj/Debug/EjercicioSerializacion.exe
+/Users/rodrigoguzman/Projects/EjercicioSerializacion/EjercicioSerializacion/obj/Debug/EjercicioSerializacion.pdb
